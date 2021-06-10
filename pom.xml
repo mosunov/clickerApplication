@@ -9,10 +9,10 @@
         <relativePath/>
     </parent>
 
-    <groupId>ru.task.prog</groupId>
-    <artifactId>clickerApp</artifactId>
+    <groupId>ru.task</groupId>
+    <artifactId>clickerApplication</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>clickerApp</name>
+    <name>clickerApplication</name>
     <description>Demo project for Spring Boot</description>
     <packaging>jar</packaging>
     <properties>
