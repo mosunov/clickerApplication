@@ -8,7 +8,7 @@ import javax.persistence.Table;
 
 @Data
 @Entity
-@Table(name = "test")
+@Table(name = "click")
 public class ClickerEntity {
         @Id
         private Long id;
